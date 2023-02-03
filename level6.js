@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Är det här din väska eller inte?'
+      img: 'Is it your bag or not?'
     },
     {
       name: '11',

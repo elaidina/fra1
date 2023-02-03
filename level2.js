@@ -59,7 +59,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Nej det är det inte.'
+      img: 'No, he is not.'
     },
     {
       name: '8',
